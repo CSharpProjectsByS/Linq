@@ -1,1 +1,9 @@
 D:\Programowanie\VisualProjects\LinqVer2\LinqVer2\bin\Debug\LinqVer2.exe.config
+D:\Programowanie\VisualProjects\LinqVer2\LinqVer2\bin\Debug\LinqVer2.exe
+D:\Programowanie\VisualProjects\LinqVer2\LinqVer2\bin\Debug\LinqVer2.pdb
+D:\Programowanie\VisualProjects\LinqVer2\LinqVer2\obj\Debug\LinqVer2.csprojResolveAssemblyReference.cache
+D:\Programowanie\VisualProjects\LinqVer2\LinqVer2\obj\Debug\LinqVer2.Form1.resources
+D:\Programowanie\VisualProjects\LinqVer2\LinqVer2\obj\Debug\LinqVer2.Properties.Resources.resources
+D:\Programowanie\VisualProjects\LinqVer2\LinqVer2\obj\Debug\LinqVer2.csproj.GenerateResource.Cache
+D:\Programowanie\VisualProjects\LinqVer2\LinqVer2\obj\Debug\LinqVer2.exe
+D:\Programowanie\VisualProjects\LinqVer2\LinqVer2\obj\Debug\LinqVer2.pdb
